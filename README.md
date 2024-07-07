@@ -12,7 +12,9 @@ UIUC CS 411 Database Systems group project. A web app for exploring the grocery 
 * MySQL
 * Docker
 
-## Usage
+## Getting Started
+
+### Running with Docker
 
 * Create a copy of the `docker-template.env` and name it `.env`
 * Edit `.env` to change passwords to something more secure
