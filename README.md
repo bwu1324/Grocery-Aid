@@ -1,0 +1,10 @@
+# Grocery Aid
+
+UIUC CS 411 Database Systems group project. A web app for exploring the grocery store products and prices. 
+
+## Usage
+
+* Create a copy of the `docker-template.env` and name it `.env`
+* Edit `.env` to change passwords to something more secure
+* Run `docker compose up -d` to start the app (this may take a while due to the need to populate the database)
+* App should be accessible on the port set in the `.env` file
