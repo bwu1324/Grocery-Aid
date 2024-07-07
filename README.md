@@ -2,6 +2,10 @@
 
 UIUC CS 411 Database Systems group project. A web app for exploring the grocery store products and prices. 
 
+## About
+
+The built using Node.js, React.js, Typescript, and MySQL. Packaged using docker and docker compose.
+
 ## Usage
 
 * Create a copy of the `docker-template.env` and name it `.env`
