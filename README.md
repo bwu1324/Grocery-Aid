@@ -1,10 +1,16 @@
 # Grocery Aid
 
-UIUC CS 411 Database Systems group project. A web app for exploring the grocery store products and prices. 
-
 ## About
 
-The built using Node.js, React.js, Typescript, and MySQL. Packaged using docker and docker compose.
+UIUC CS 411 Database Systems group project. A web app for exploring the grocery store products and prices. 
+
+## Built With
+
+* Node.js
+* React.js
+* Typescript
+* MySQL
+* Docker
 
 ## Usage
 
