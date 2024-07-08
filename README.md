@@ -12,7 +12,7 @@ UIUC CS 411 Database Systems group project. A web app for exploring the grocery 
 
 ## Getting Started - Running with Docker
 
-### Prequisites 
+### Prerequisites 
 * Docker
 
 ### Running the project
