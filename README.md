@@ -1,7 +1,7 @@
 # Grocery Aid
 
 ## About
-UIUC CS 411 Database Systems group project. A web app for exploring the grocery store products and prices. 
+UIUC CS 411 Database Systems group project. A web app for exploring grocery store products and prices. 
 
 ## Built With
 * Node.js
